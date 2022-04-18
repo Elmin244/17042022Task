@@ -7,7 +7,7 @@ namespace _17042022Task
     {
         static void Main(string[] args)
         {
-            // ə hərfi falan ucun
+            // ə hərfi ucun
             Console.OutputEncoding = Encoding.UTF8;
             bool active = true;
             while (active)
